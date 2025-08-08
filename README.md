@@ -5,3 +5,5 @@
 Para ejecutar el sisema, debes poner:
 
 ```npm insall react```
+
+Sistema de registro 2
